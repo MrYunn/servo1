@@ -82,5 +82,8 @@ input.onButtonPressed(Button.A, function () {
     basic.pause(2000)
 })
 input.onButtonPressed(Button.B, function () {
-	
+    servos.P0.setPulse(1500)
+})
+input.onLogoEvent(TouchButtonEvent.Pressed, function () {
+    servos.P0.setPulse(1000)
 })
