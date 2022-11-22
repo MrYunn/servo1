@@ -1,0 +1,55 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="ymNWYG;D3ZhO~:|EeLHF" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="servoservosetangle" id=".sCp9@tBobGQ`!XaJ)Tr"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id="w%wLD5_E5|I?f_]1SoPH"><field name="angle">0</field></shadow></value><next><block type="device_show_leds" id="OH(Tj@i}BF(V.;tQmC)O"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_pause" id="M%Ifo]dc?i!+CCL/9oDJ"><value name="pause"><shadow type="timePicker" id="BC%y+e0Z3;LY=Dl=Uf0C"><field name="ms">2000</field></shadow></value><next><block type="servoservosetangle" id="[OHA}Qr^nX.K)YiiTck6"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id="ruoVb@Q3#.o_XR)qa6V0"><field name="angle">10</field></shadow></value><next><block type="device_show_leds" id="}sF{py]HOI;:5mJ9S7|y"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . .
+        `</field><next><block type="device_pause" id="ao;Ck@bFKR]uDl~LP[2j"><value name="pause"><shadow type="timePicker" id="Qqav:@3,S(}zE?BqWsgD"><field name="ms">2000</field></shadow></value><next><block type="servoservosetangle" id="6f*3~`;(M8.Wc;X^feoa"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id="yWh0KW/N|t#l}R7Fy+8D"><field name="angle">20</field></shadow></value><next><block type="device_show_leds" id="^ACb}Ux^~3GE2IsIig+."><field name="LEDS">`
+        # # # . . 
+        . . # . . 
+        # # # . . 
+        # . . . . 
+        # # # . .
+        `</field><next><block type="device_pause" id=":S/eW{kS{2PT~p15QaTM"><value name="pause"><shadow type="timePicker" id="9LBT9sa1mPFI(nF!98SY"><field name="ms">2000</field></shadow></value><next><block type="servoservosetangle" id="rT.l*L1e]h8b:r1C@iBt"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id=";gN3WRF)av@3z{_SE%jw"><field name="angle">30</field></shadow></value><next><block type="device_show_leds" id="^W+g7nq%EHnLa-a^-wet"><field name="LEDS">`
+        # # # . . 
+        . . # . . 
+        # # # . . 
+        . . # . . 
+        # # # . .
+        `</field><next><block type="device_pause" id="_5t^iFFRZttgPSmo)|7j"><value name="pause"><shadow type="timePicker" id="k,ldUTBW:;)Pwiq(32l%"><field name="ms">2000</field></shadow></value><next><block type="servoservosetangle" id="L}i@=I|XaN:Nvg@H(H30"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id="432CR4hH0exm.Ks0$qL1"><field name="angle">40</field></shadow></value><next><block type="device_show_leds" id="hkg_i2Qd?jY8Ku+$%`Gv"><field name="LEDS">`
+        # . # . . 
+        # . # . . 
+        # # # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="z7r#P1*BwKtZl8C#6fLJ"><value name="pause"><shadow type="timePicker" id="*cvonKUo?c:(X2NM0Jy,"><field name="ms">2000</field></shadow></value><next><block type="servoservosetangle" id="ejIbS;BsAKwNhm^EKt%1"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id="Lj+]/zu{(tO~-{{tJ-=|"><field name="angle">50</field></shadow></value><next><block type="device_show_leds" id=".;h!!GcpY^Ma8w-#=aqm"><field name="LEDS">`
+        # # # . . 
+        # . . . . 
+        # # # . . 
+        . . # . . 
+        # # # . .
+        `</field><next><block type="device_pause" id="~T?/SZ1z7a8BSCy?kK)G"><value name="pause"><shadow type="timePicker" id="VgfS#zQNt]9mjKHmUSpN"><field name="ms">2000</field></shadow></value><next><block type="servoservosetangle" id="RyxhqL8)+fw01bVTN%R*"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id="./`e2dn@;j;_bKMqp!k,"><field name="angle">60</field></shadow></value><next><block type="device_show_leds" id="rcdglQ?92lu}**$+lbjX"><field name="LEDS">`
+        # # # . . 
+        # . . . . 
+        # # # . . 
+        # . # . . 
+        # # # . .
+        `</field><next><block type="device_pause" id="(i9/!+Y0!{zkY1L@3Z(7"><value name="pause"><shadow type="timePicker" id="o`DWrz_]O*-5WY9I%$+Z"><field name="ms">2000</field></shadow></value><next><block type="servoservosetangle" id="nZ-Ir2|6RNg=a:X?^cPG"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id="bNZOxI53/?XU(`Nz8j]7"><field name="angle">70</field></shadow></value><next><block type="device_show_leds" id="O@yZOx]sVTGXxykagnF8"><field name="LEDS">`
+        # # # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="7:di2Bhb5JcdG]+nHgdi"><value name="pause"><shadow type="timePicker" id="5I*#:SP]wC};-qgY1}@v"><field name="ms">2000</field></shadow></value><next><block type="servoservosetangle" id="MszR^?Qw6#0*p;f6.iJH"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id="RGcHJBzL(,+(H#KqRXhY"><field name="angle">80</field></shadow></value><next><block type="device_show_leds" id="}a5^7[1XvgweLZyDtSaL"><field name="LEDS">`
+        # # # . . 
+        # . # . . 
+        # # # . . 
+        # . # . . 
+        # # # . .
+        `</field><next><block type="device_pause" id="Xkobm8;][!*aGO]B3}vc"><value name="pause"><shadow type="timePicker" id="ZIANrnK(wyR4O::*3%Hj"><field name="ms">2000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="yrBwNC1xr9=%9@kt[Bdl" x="351" y="-17"><field name="NAME">Button.B</field></block><block type="device_set_analog_pin" id="KmtK;5eR`}Wf+FcIm:9M" disabled="true" x="420" y="358"><field name="name">AnalogPin.P1</field><value name="value"><shadow type="math_number_minmax" id="DoDn.!I?2*;+ry.7.eF)" disabled="true"><mutation min="0" max="1023" label="Value" precision="0"></mutation><field name="SLIDER">1023</field></shadow></value></block><block type="device_set_analog_period" id=",Kqdw)F^Qae4PcAG3iz5" disabled="true" x="322" y="405"><field name="pin">AnalogPin.P1</field><value name="micros"><shadow type="math_number" id="y.r1J_(Jr@T{#0GiqA7K" disabled="true"><field name="NUM">20000</field></shadow></value></block><block type="device_pause" id="mosxQQX.Xswx]BdZvdU}" disabled="true" x="458" y="588"><value name="pause"><shadow type="timePicker" id="=`oxk)bG5hiz%q6=r^uz" disabled="true"><field name="ms">2000</field></shadow></value></block></xml>
